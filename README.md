@@ -13,7 +13,7 @@ This project was built using EcmaScript 2016 (ES6) and jQuery (3.3.1).
 ## External Libraries
 
 [jQuery](https://github.com/jquery/jquery)
-
+ 
 [ClipboardJS](https://github.com/zenorocha/clipboard.js)
 
 ## Fonts
